@@ -1,28 +1,42 @@
-# Welcome to your VS Code Extension
+# LunarGlow Minimal - VS Code Theme
 
-## What's in the folder
+LunarGlow Minimal is a sleek, modern, and minimalistic dark theme for Visual Studio Code. It features a subtle contrast between soft grayish-white buttons and a deep dark background, ensuring a comfortable coding experience without excessive strain on the eyes.
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/LunarGlow Minimal-color-theme.json` - the color theme definition file.
+## ✨ Features
+- **Minimalistic UI** - Clean, clutter-free design for focused coding.
+- **Greyish-White Buttons** - Ensures visibility without harsh contrasts.
+- **Dark Mode Aesthetic** - Perfectly balanced contrast for extended use.
+- **Optimized for Readability** - Carefully selected colors to enhance readability without distractions.
+- **Consistent Syntax Highlighting** - Maintains a balanced color scheme across different file types.
 
-## Get up and running straight away
+## 📸 Screenshots
+![LunarGlow Minimal Preview](path/to/your/screenshot.png)  
+*Experience the elegance of LunarGlow Minimal in VS Code.*
 
-* Press `F5` to open a new window with your extension loaded.
-* Open the color theme picker with  the `File > Preferences > Theme > Color Theme` menu item, or use the `Preferences: Color Theme command (Ctrl+K Ctrl+T)` and pick your theme
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+## 🔧 Installation
+1. Open **Visual Studio Code**
+2. Go to **Extensions** (`Ctrl + Shift + X`)
+3. Search for **LunarGlow Minimal**
+4. Click **Install**
+5. Open **Command Palette** (`Ctrl + Shift + P`) and type `Preferences: Color Theme`
+6. Select **LunarGlow Minimal**
 
-## Make changes
+## 🚀 Recommended Settings
+For the best experience, consider enabling the following settings:
+```json
+{
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.iconTheme": "material-icon-theme"
+}
+```
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+## 🛠 Contributing
+Feel free to suggest improvements or report issues via GitHub.
 
-## Adopt your theme to Visual Studio Code
+<!-- ## 📜 License
+This theme is released under the [MIT License](LICENSE). -->
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
+Enjoy coding with **LunarGlow Minimal**! 🚀
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
-
-## Install your extension
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
