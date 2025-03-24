@@ -1,5 +1,6 @@
 {
 	"name": "LunarGlow Minimal",
+	"type": "dark",
 	"colors": {
 		"foreground": "#8e8e8e",
 		"focusBorder": "#343434",
