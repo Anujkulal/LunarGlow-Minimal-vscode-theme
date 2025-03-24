@@ -3,6 +3,10 @@
   "displayName": "LunarGlow Minimal",
   "description": "LunarGlow Minimal vscode theme!",
   "publisher": "AnujKulal",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
