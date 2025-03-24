@@ -2,6 +2,7 @@
   "name": "lunarglow-minimal",
   "displayName": "LunarGlow Minimal",
   "description": "LunarGlow Minimal vscode theme!",
+  "publisher": "AnujKulal",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
