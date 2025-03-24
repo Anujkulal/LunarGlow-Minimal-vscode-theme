@@ -1,16 +1,42 @@
-# lunarglow-minimal README
+# LunarGlow Minimal - VS Code Theme
 
-## Working with Markdown
+LunarGlow Minimal is a sleek, modern, and minimalistic dark theme for Visual Studio Code. It features a subtle contrast between soft grayish-white buttons and a deep dark background, ensuring a comfortable coding experience without excessive strain on the eyes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
+- **Minimalistic UI** - Clean, clutter-free design for focused coding.
+- **Greyish-White Buttons** - Ensures visibility without harsh contrasts.
+- **Dark Mode Aesthetic** - Perfectly balanced contrast for extended use.
+- **Optimized for Readability** - Carefully selected colors to enhance readability without distractions.
+- **Consistent Syntax Highlighting** - Maintains a balanced color scheme across different file types.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 📸 Screenshots
+![LunarGlow Minimal Preview](assets/screenshot1.png)  
+*Experience the elegance of LunarGlow Minimal in VS Code.*
 
-## For more information
+## 🔧 Installation
+1. Open **Visual Studio Code**
+2. Go to **Extensions** (`Ctrl + Shift + X`)
+3. Search for **LunarGlow Minimal**
+4. Click **Install**
+5. Open **Command Palette** (`Ctrl + Shift + P`) and type `Preferences: Color Theme`
+6. Select **LunarGlow Minimal**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🚀 Recommended Settings
+For the best experience, consider enabling the following settings:
+```json
+{
+    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.iconTheme": "material-icon-theme"
+}
+```
 
-**Enjoy!**
+## 🛠 Contributing
+Feel free to suggest improvements or report issues via GitHub.
+
+<!-- ## 📜 License
+This theme is released under the [MIT License](LICENSE). -->
+
+Enjoy coding with **LunarGlow Minimal**! 🚀
+

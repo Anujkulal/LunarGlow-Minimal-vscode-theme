@@ -5,8 +5,15 @@
   "publisher": "AnujKulal",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Anujkulal/LunarGlow-Minimal-vscode-theme"
   },
+  "keywords": [
+    "lunarglow minimal",
+    "theme",
+    "dark",
+    "minimal",
+    "lunarglow"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
