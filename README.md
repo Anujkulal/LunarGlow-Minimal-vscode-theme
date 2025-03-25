@@ -10,7 +10,7 @@ LunarGlow Minimal is a sleek, modern, and minimalistic dark theme for Visual Stu
 - **Consistent Syntax Highlighting** - Maintains a balanced color scheme across different file types.
 
 ## 📸 Screenshots
-![LunarGlow Minimal Preview](assets/screenshot1.png)  
+![LunarGlow Minimal Preview](assets/screenshot1.jpeg)  
 *Experience the elegance of LunarGlow Minimal in VS Code.*
 
 ## 🔧 Installation

@@ -8,16 +8,19 @@
     "url": "https://github.com/Anujkulal/LunarGlow-Minimal-vscode-theme"
   },
   "keywords": [
+    "lunar glow",
+    "lunar glow minimal",
     "lunarglow minimal",
     "theme",
     "dark",
+    "dark theme",
     "minimal",
     "lunarglow"
   ],
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
