@@ -38,5 +38,5 @@ Feel free to suggest improvements or report issues via GitHub.
 <!-- ## 📜 License
 This theme is released under the [MIT License](LICENSE). -->
 
-Enjoy coding with **LunarGlow Minimal**! 🚀
+Enjoy coding with **LunarGlow Minimal**! [Visit here](https://marketplace.visualstudio.com/items?itemName=AnujKulal.lunarglow-minimal) 🚀
 
