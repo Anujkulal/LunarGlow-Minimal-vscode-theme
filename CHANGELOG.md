@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.0
+
+- improved tab views
+- improved breadcrumb colors
+- improved status bar colors
+
 ## 1.0.0
 
 - improved text colors
